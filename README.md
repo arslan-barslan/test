@@ -7,4 +7,5 @@ Repo for OOP
 def facts():
 	print('я люблю пиццу')
 ```
+## Картинка
 ![alt text](https://github.com/arslan-barslan/test/blob/fix/README/tester.png "kartinka")
