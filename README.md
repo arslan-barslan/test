@@ -2,3 +2,8 @@
 Repo for OOP
 ## Веселвый текст
 *он очень не скучный*
+## Питон код
+```
+def simple():
+	print('this is nice')
+```
